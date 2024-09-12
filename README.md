@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![achedmi's 42 stats](https://badge.mediaplus.ma/darkblue/achedmi)](https://github.com/oakoudad/badge42)
+
 <!--
 **Achedmi/achedmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
